@@ -1,1 +1,3 @@
-# assessmentM
+ADMIN_USERNMAE = "Move"
+ADMIN_PASSWORD = "hello1234"
+API_KEY = "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZCI6MSwiZXhwIjoxNzIxNTkzNjc5fQ.AfJUvRBum0DWDRzwExyhpi0UAikS_Qv2iiOj51FNJNk"
